@@ -1,4 +1,46 @@
+<div align="center">
 
+# 💻 Lee Dongyoung's GitHub Profile
+
+Hello!! I'm Lee Dongyoung.  
+Welcome to my GitHub profile 👋
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Developer;Learning+Frontend+Design;HTML+CSS+JavaScript;Welcome+to+my+GitHub!" />
+
+</div>
+
+---
+
+# 🙋 About Me
+
+Hello, I'm Lee Dongyoung.  
+Currently learning frontend design and web development.
+
+I enjoy creating clean and user-friendly websites.  
+My goal is to become a creative frontend developer by learning modern UI and interactive web design.
+
+---
+
+# ⚒ Skills
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```txt
+✔ GitHub
+✔ Frontend Development
+✔ Figma
 
 ---
 
