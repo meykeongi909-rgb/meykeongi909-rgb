@@ -1,11 +1,4 @@
-<!-- 상단 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=260&section=header&text=Kim%20Sangwoo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20GitHub%20Learner&descAlignY=58&descSize=18)
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;Learning+HTML+%2F+CSS+%2F+JavaScript;Always+Learning+New+Things" />
-
-</div>
 
 ---
 
